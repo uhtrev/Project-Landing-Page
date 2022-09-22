@@ -146,7 +146,7 @@ img {
 }
 
 .quote {
-    padding: 80px 35%;
+    padding: 200px 35%;
     background: url(images/pexels-vlad-alexandru-popa-1486222.jpg);
     background-size: cover;
     font-size: 36px;
@@ -172,11 +172,11 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 32px;
-    pad: 36px;
+    gap:32px;
+    padding:36px;
     background-color: #f7601b;
     border-radius: 5px;
-    margin: 100px auto;
+    margin:100px auto;
     color: #f9faf8;
     flex-flow: row wrap;
 }
